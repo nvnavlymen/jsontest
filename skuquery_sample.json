@@ -1,0 +1,112 @@
+{
+    "object": [
+                {
+                    "ExternalItemId": "0rjkrkqojpw3",
+                    "ExternalItemIdSpecified": true,
+                    "Name": "Apple Leather Case (for iPhone 11 Pro Max) - Black",
+                    "NameSpecified": true,
+                    "Description": "These Apple-designed cases fit snugly over the curves of your iPhone without adding bulk. They’re made from specially tanned and finished European leather, so the outside feels soft to the touch and develops a natural patina over time. The machined aluminum buttons match the finish of your leather case, while a microfiber lining inside helps protect your iPhone. And you can keep it on all the time, even when you’re charging wirelessly. Just like every Apple-designed case, it’s put through thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.",
+                    "DescriptionSpecified": true,
+                    "Url": "https://www.walmart.ca/en/ip/apple-leather-case-for-iphone-11-pro-max-black-black/PRD0RJKRKQOJPW3",
+                    "UrlSpecified": true,
+                    "Price": 68.98,
+                    "PriceSpecified": true,
+                    "RetailPrice": 0.0,
+                    "RetailPriceSpecified": true,
+                    "DiscountSpecified": false,
+                    "SmallImage": "",
+                    "SmallImageSpecified": true,
+                    "BigImage": "https://i5.walmartimages.ca/images/Large/309/229/6000202309229.jpg",
+                    "BigImageSpecified": true,
+                    "CategoryId1": 1188032557,
+                    "CategoryId1Specified": true,
+                    "CategoryId2": 1083392274,
+                    "CategoryId2Specified": true,
+                    "CategoryId3": 553931141,
+                    "CategoryId3Specified": true,
+                    "BeginDateSpecified": false,
+                    "EndDateSpecified": false,
+                    "CreationDate": 1674846007,
+                    "CreationDateSpecified": true,
+                    "ExtraDataObjects": [
+                        {
+                            "Key": "cat",
+                            "Value": "Electronics > Cell Phones and Accessories > Cellphone Cases"
+                        },
+                        {
+                            "Key": "isapi",
+                            "Value": "true"
+                        },
+                        {
+                            "Key": "apiupdate",
+                            "Value": "2023-05-05 11:58:09 (UTC-6)"
+                        },
+                        {
+                            "Key": "buybox",
+                            "Value": "1"
+                        },
+                        {
+                            "Key": "producttype",
+                            "Value": "MIXED"
+                        },
+                        {
+                            "Key": "brand_name",
+                            "Value": "Apple"
+                        },
+                        {
+                            "Key": "seller_id",
+                            "Value": "0"
+                        }
+                    ],
+                    "NbItemsAvailableSpecified": false,
+                    "RandomizationWeightSpecified": false,
+                    "BlackListed": false,
+                    "BlackListedSpecified": true,
+                    "ImportStatus": 3,
+                    "ImportStatusSpecified": true,
+                    "InStock": true,
+                    "InStockSpecified": true,
+                    "CategoryName1": "Electronics",
+                    "CategoryName1Specified": true,
+                    "CategoryName2": "Cell Phones and Accessories",
+                    "CategoryName2Specified": true,
+                    "CategoryName3": "Cellphone Cases",
+                    "CategoryName3Specified": true,
+                    "IsRecommendable": false,
+                    "IsRecommendableSpecified": true,
+                    "MarginSpecified": false,
+                    "IsReallyRecommendable": false,
+                    "IsReallyRecommendableSpecified": true,
+                    "AdditionalImageLinks": [],
+                    "ComponentId": 354938,
+                    "ComponentIdSpecified": true,
+                    "Brand": "Apple",
+                    "BrandSpecified": true,
+                    "GoogleProductCategory": "",
+                    "GoogleProductCategorySpecified": true,
+                    "DisplayAdsTitle": "",
+                    "DisplayAdsTitleSpecified": true,
+                    "HashedExternalId": -340367119356488129,
+                    "HashedExternalIdSpecified": true,
+                    "Gtin": "19019928765",
+                    "GtinSpecified": true,
+                    "Mpn": "MX0E2ZM/A",
+                    "MpnSpecified": true,
+                    "ParentExternalItemId": "prd0rjkrkqojpw3",
+                    "ParentExternalItemIdSpecified": true,
+                    "ProductType": "'Electronics > Cell Phones and Accessories > Cellphone Cases ','Grocery > Electronics & Entertainment > Cellphone Accessories'",
+                    "ProductTypeSpecified": true,
+                    "ProductTypeKey": "10003 > 20135 > 6000188524298,10019 > 6000201800017 > 6000201800056",
+                    "ProductTypeKeySpecified": true,
+                    "SellerId": "0",
+                    "SellerIdSpecified": true,
+                    "IsCspDisplayable": false,
+                    "IsCspDisplayableSpecified": true,
+                    
+                    "LastUpdateDate": 1683309518,
+                    "LastUpdateDateSpecified": true,
+                    "DeletedDateSpecified": false,
+                    "AlternateIds": []
+                }
+            ]
+        }
